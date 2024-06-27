@@ -8,6 +8,8 @@ EDA involves gaining a deep understanding of datasets and their characteristics 
 This includes data cleaning and preprocessin!g, data visualization, and
 statistical exploration.Powerbi-projects
 
-(https://github.com/antonysebin/Credit-card-weekly-Dashboard-using-Power-BI/assets/122266664/67ff9767-7aab-44e5-90de-e04a807cd502)
+![CREDIT](https://github.com/antonysebin/Credit-card-weekly-Dashboard-using-Power-BI/assets/122266664/c734b6d0-f2a6-4b85-a798-b8dae7368922)
 
-(https://github.com/antonysebin/Credit-card-weekly-Dashboard-using-Power-BI/assets/122266664/0daa543b-70fc-4e3e-b25b-85425107ce09)
+
+![CUSTT](https://github.com/antonysebin/Credit-card-weekly-Dashboard-using-Power-BI/assets/122266664/943789b8-e5a0-44d2-b8ae-776003006ee3)
+
