@@ -1,1 +1,9 @@
 # Credit-card-weekly-Dashboard-using-Power-BI
+
+Develop a comprehensive credit card weekly dashboard using transaction and customer data from a postgre SQL database
+To provides real-time insights into key performance metrics ,KPI and trends,
+enabling stakeholders to monitor and analyze credit card operations effectively. 
+Shared actionableinsights with stakeholders based on dashboard findings to support decision-making processes.
+EDA involves gaining a deep understanding of datasets and their characteristics to guide decisionmaking processes.
+This includes data cleaning and preprocessing, data visualization, and
+statistical exploration.Powerbi-projects
